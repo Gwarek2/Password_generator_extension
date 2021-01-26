@@ -2,14 +2,11 @@
     "name": "Password generator",
     "version": "0.5",
     "description": "Simple password generator.\n",
-    "details": "Hello",
     "applications": {
         "gecko": {
-            "id": "pass-gen@mozilla.org",
-            "strict_min_version": "45.0"
+            "id": "{a31031e6-d97b-4093-9942-c8d51c546b2e}"
         }
-    },
-    "permissions": ["declarativeContent"], 
+    }, 
     "browser_action": {
         "default_popup": "popup.html",
         "default_icon": {
