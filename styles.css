@@ -1,0 +1,31 @@
+html {
+    border-color: whitesmoke;
+    border-style: double;
+}
+
+body {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    background-color: #2a2a2e;
+    color: white;
+}
+
+h3 {
+    color: #0d6efd;
+}
+
+img {
+    width: 20px;
+    height: 20px
+}
+
+.block {
+    padding-top: 12px;
+}
+
+.sub-block {
+    border-radius: 0%;
+    height: 31px;
+    border-color: white;
+}
